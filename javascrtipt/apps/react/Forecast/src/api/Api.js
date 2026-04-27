@@ -4,7 +4,7 @@ const instance = axios.create({
     baseURL:"https://api.openweathermap.org/data/2.5/"
 })
 
-const apiKey = '73086d8cdcc1c284c6c173a777e9a180'
+const apiKey = 'your-api-key'
 
 export const weatherApi = {
     byCoord(lat,lon){

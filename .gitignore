@@ -262,7 +262,7 @@ pids
 # IntelliJ based IDEs
 .idea
 # AI
-.qodo/*
+.qodo
 
 # Finder (MacOS)
 .DS_Store
